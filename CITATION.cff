@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: IQA-101
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Riza
+    family-names: Velioglu
+    affiliation: Bielefeld University
+    orcid: 'https://orcid.org/0000-0002-2160-4976'
+    email: rzavelioglu+iqa101@gmail.com
+repository-code: 'https://github.com/rizavelioglu/IQA-SIM'
+abstract: >-
+  Material for the Tutorial "All You Need To Know About
+  Image Quality Assessment & Image Similarity Metrics"
+keywords:
+  - image-similarity
+  - image-quality
+  - ssim
+  - fid
+  - evaluation
+license: MIT
